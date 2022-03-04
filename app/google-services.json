@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253326676007",
+    "project_id": "farmigo-7dd26",
+    "storage_bucket": "farmigo-7dd26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253326676007:android:12f5351be820269dff3e02",
+        "android_client_info": {
+          "package_name": "com.lahsuak.apps.farmigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253326676007-vijm4k3e0tk2qkpata335crusel06c7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJBnAatCJ95aEA_T4MgJ9wrOVyqvLAeXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253326676007-vijm4k3e0tk2qkpata335crusel06c7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

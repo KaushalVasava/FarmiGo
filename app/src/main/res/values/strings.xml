@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FarmiGo</string>
+    <string name="location_icon">Location Icon</string>
+    <string name="back_button">Back button</string>
+    <string name="logo">Logo</string>
+    <string name="farm_image">Farm Image</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="state">State</string>
+    <string name="location">Location</string>
+    <string name="taluka">Taluka</string>
+    <string name="district">District</string>
+    <string name="village">Village</string>
+    <string name="complete">Complete</string>
+    <string name="farmer">Farmer</string>
+    <string name="trader">Trader</string>
+    <string name="you_are">You are?</string>
+</resources>
